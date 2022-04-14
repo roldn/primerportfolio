@@ -1,0 +1,20 @@
+:root{
+    --theme-color: white;
+    --primary-color:#232a34;
+    --secundary-color: #64b6b2;
+    --text-color-inverse: white;
+    --text-color: black;
+    --navbar-shallow-color: grey;
+    --menu-mobile-background-color:#64b6b2;
+}
+
+body{
+    font-family: 'Nunito Sans', sans-serif ;
+    background-color: var(--theme-color);
+    color: var(--text-color);
+}
+
+a{
+    text-decoration: none;
+    color: var(--text-color);
+}
